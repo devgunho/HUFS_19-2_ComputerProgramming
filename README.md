@@ -1,5 +1,8 @@
 # Computer Programming
 
+**19년 2학기**
 
+**목 12 교시**
 
-Materials Reference : https://ece.uwaterloo.ca/~ece150/Lecture_materials/#2
+**5308**
+
