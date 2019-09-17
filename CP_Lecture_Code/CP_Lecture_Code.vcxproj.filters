@@ -14,4 +14,18 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.1_C_Review_DataType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2_Print_Int_Value.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3_Find_PrimeNum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1_Operator_Practice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
