@@ -11,7 +11,7 @@ int main()
 	{
 		cin >> input;
 		if (input == -1) break;
-		else if ((input < 1) && (input > 20))
+		else if ((input < 1) || (input > 20))
 		{
 			cout << "wrong input!" << endl;
 			break;
