@@ -1,12 +1,12 @@
-# Computer Programming
+# Computer Programming & Lab
 
 ### 한국외국어대학교 컴퓨터전자시스템공학부
 
-##### **2019 Fall**
+### **2019 Fall 컴퓨터프로그래밍및실습 실습 수업**
 
-**When : 목 12 교시**
+**When : 목 1,2 교시**
 
-**Where : 5308**
+**Where : 공학관 5308**
 
 ---
 
